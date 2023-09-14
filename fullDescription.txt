@@ -1,4 +1,4 @@
 Paragraph 1
-Paragraph 2
+Something different
 Paragraph 3
 
